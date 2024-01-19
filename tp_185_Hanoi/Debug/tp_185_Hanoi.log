@@ -1,0 +1,5 @@
+﻿  tp_185.c
+F:\C-源代码\tp_185_Hanoi\tp_185.c(14,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“__int64”
+F:\C-源代码\tp_185_Hanoi\tp_185.c(14,10): message : 请考虑在格式字符串中使用“%lld”
+F:\C-源代码\tp_185_Hanoi\tp_185.c(14,10): message : 请考虑在格式字符串中使用“%I64d”
+  tp_185_Hanoi.vcxproj -> F:\C-源代码\tp_185_Hanoi\Debug\tp_185_Hanoi.exe
