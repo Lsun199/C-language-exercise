@@ -11,7 +11,7 @@ int main() {
 //	int n = 0;
 	int t = 0;
 	
-	printf("input 10 numbers :");//ÊäÈëÊı×é(array) 
+	printf("input 10 numbers :");//ÃŠÃ¤ÃˆÃ«ÃŠÃ½Ã—Ã©(array) 
 	for(int i=0;i<10;i++){
 		scanf("%d\n",&a[i]);
 	}
@@ -37,4 +37,6 @@ int main() {
 //  min2max(m,n);
     
 	return 0;
+	
+/*æ³¨é‡Šæµ‹è¯•*/
 }
